@@ -15,6 +15,5 @@ Frontend Developer | JavaScript Developer | React Developer
 
 ## Connect With Me
 
-Portfolio: https://yourportfolio.com
-LinkedIn: https://linkedin.com/in/yourprofile
-Email: yourmail@gmail.com
+Portfolio: https://portofoliopavan.netlify.app
+Email: rmall8726@gmail.com
