@@ -8,7 +8,7 @@ Frontend Developer | JavaScript Developer | React Developer
 
 ## Featured Projects
 
-- AI Background Remover
+- Pg management system
 - Delivery Tracking System
 - VPN Dashboard
 - Grocery Management System
