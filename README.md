@@ -1,19 +1,35 @@
-# Hi, I'm Ritesh Kumar Mall 👋
+# Riteshmallcodes
 
-Frontend Developer | JavaScript Developer | React Developer
+> A modern software project: Riteshmallcodes
 
-🚀 Building modern web applications
-💻 HTML, CSS, JavaScript, React, PHP
-📍 Delhi, India
 
-## Featured Projects
+---
 
-- Pg management system
-- Delivery Tracking System
-- VPN Dashboard
-- Grocery Management System
+## ✨ Features
 
-## Connect With Me
+- Modern developer experience
+- Automated CI/CD workflows
+- Robust security hygiene
 
-Portfolio: https://portofoliopavan.netlify.app
-Email: rmall8726@gmail.com
+---
+
+## 🚀 Getting Started
+
+### Installation
+
+```bash
+git clone https://github.com/Riteshmallcodes/Riteshmallcodes.git
+cd Riteshmallcodes
+```
+
+---
+
+## 🤝 Contributing
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+---
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for details.
